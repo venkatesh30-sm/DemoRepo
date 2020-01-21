@@ -12,6 +12,10 @@ public class Car {
 		
 		System.out.println("hai");
 		System.out.println("java selenium");
+		
+		System.out.println("greens");
+		System.out.println("chennai");
+		System.out.println("Technology");
 	}
 	
 	
