@@ -10,7 +10,8 @@ public class Car {
 		int i = Integer.parseInt(s);
 		System.out.println(i);
 		
-		
+		System.out.println("hai");
+		System.out.println("java selenium");
 	}
 	
 	
