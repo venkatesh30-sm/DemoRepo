@@ -16,6 +16,9 @@ public class Car {
 		System.out.println("greens");
 		System.out.println("chennai");
 		System.out.println("Technology");
+		
+		System.out.println("oracle");
+		System.out.println("Selenium");
 	}
 	
 	
