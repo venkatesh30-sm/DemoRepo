@@ -29,6 +29,9 @@ public class Car {
 		System.out.println("Selenium");
 		
 		Scanner sc=new Scanner(System.in);
+		int in = sc.nextInt();
+		
+		long l = sc.nextLong();
 
 	}
 	
