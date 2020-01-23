@@ -2,6 +2,7 @@ package org.greens;
 
 import java.awt.AWTException;
 import java.awt.Robot;
+import java.util.Scanner;
 
 public class Car {
 	
@@ -26,6 +27,8 @@ public class Car {
 
 		System.out.println("oracle");
 		System.out.println("Selenium");
+		
+		Scanner sc=new Scanner(System.in);
 
 	}
 	
