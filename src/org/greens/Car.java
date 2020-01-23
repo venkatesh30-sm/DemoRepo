@@ -30,6 +30,11 @@ public class Car {
 		
 		System.out.println("123");
 		System.out.println("456");
+		
+		
+		System.out.println("object is created");
+		Car c=new Car();
+		
 
 
 
